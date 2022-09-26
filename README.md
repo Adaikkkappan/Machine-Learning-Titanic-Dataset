@@ -21,7 +21,7 @@
 - Pandas
 - Matplotlib 
 - Seaborn
-- sklearn
+- Sklearn
 
 ### Conclusion:
 
